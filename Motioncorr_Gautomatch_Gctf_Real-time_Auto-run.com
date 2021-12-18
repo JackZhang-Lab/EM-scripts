@@ -1,7 +1,8 @@
 #!/bin/tcsh -f
 #####************************************************************************************#####
 #Description: This program is used to do real-time auto processing during data collection
-#Author: Kai (Jack) Zhang
+#Copyright: MRC Laboratory of Molecular Biology
+#Author: Kai Zhang
 #####************************************************************************************#####
 
 #Requirement: EMAN2, e2proc3d.py; Motioncorr; Gctf; Gautomatch; Cuda libriary; High-end GPUs;  MRC file format;
