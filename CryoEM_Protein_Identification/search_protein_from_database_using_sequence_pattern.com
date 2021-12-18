@@ -1,6 +1,7 @@
 #!/bin/tcsh -f
 
-#This is a script using user-defined sequence pattern to search proteins from sequence databases.
+#This is a semi-automatic script using user-defined sequence pattern to search proteins from sequence databases.
+
 set pattern="[ILMNDQEPK][NDQEPK][AVTSCILMNDQEPK][QEPKHFYWR][AVTSCILMNDQEPK][NDQEPKHFYWR][A-Z][AVTSCILMNDQEPK][A-Z][HFYWRKM][NDQEPKHFYWR][NDQEPKHFYWR][HFYWRW][AVTSCILMNDQEPK][HFYWRMKNQ][MNDQEPHFYWR]"
 
 
